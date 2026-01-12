@@ -37,7 +37,7 @@ Before you begin, make sure you have Node.js and npm installed on your system. Y
 
 ## Configuration
 
-Open the `.env` file in your favorite text editor and fill in the required details. If you're unsure about what to fill, you can refer to the following YouTube playlist for guidance: [Reelzz  YouTube Playlist](https://www.youtube.com/channel/UChQgXWG96_uPHj40gNh4MNg).
+Open the `.env` file in your favorite text editor and fill in the required details.
 
 
 ## Running the Server
