@@ -1,10 +1,4 @@
-<a href="https://youtube.com/@user-vv5kf1nw9j?si=4YfAph-MODENMMcg">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./rp_banner.jpeg" />
-    <source media="(prefers-color-scheme: light)" srcset="./rp_banner.jpeg" />
-    <img alt="VisionCamera" src="./rp_banner.jpeg" />
-  </picture>
-</a>
+
 
 
 
